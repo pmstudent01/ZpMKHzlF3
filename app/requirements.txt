@@ -1,0 +1,5 @@
+# Install the locally generated Vehicle Service SDK (editable, from its path).
+-e ../postman/sdks/Collections SDKs/Vehicle Service Collection/python
+
+# App dependencies
+python-dotenv>=1.0.0
